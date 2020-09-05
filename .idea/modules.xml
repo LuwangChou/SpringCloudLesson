@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/image_plot_api_dto/image_plot_api_dto.iml" filepath="$PROJECT_DIR$/image_plot_api_dto/image_plot_api_dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_plot_basics/image_plot_basics.iml" filepath="$PROJECT_DIR$/image_plot_basics/image_plot_basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_plot_basics/image_plot_basics_elk_kafka/image_plot_basics_elk_kafka.iml" filepath="$PROJECT_DIR$/image_plot_basics/image_plot_basics_elk_kafka/image_plot_basics_elk_kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_plot_basics/image_plot_basics_springcloud_eureka/image_plot_basics_springcloud_eureka.iml" filepath="$PROJECT_DIR$/image_plot_basics/image_plot_basics_springcloud_eureka/image_plot_basics_springcloud_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_plot_basics/image_plot_basics_springcloud_zuul/image_plot_basics_springcloud_zuul.iml" filepath="$PROJECT_DIR$/image_plot_basics/image_plot_basics_springcloud_zuul/image_plot_basics_springcloud_zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_plot_basics/image_plot_basics_xxl_sso_server/image_plot_basics_xxl_sso_server.iml" filepath="$PROJECT_DIR$/image_plot_basics/image_plot_basics_xxl_sso_server/image_plot_basics_xxl_sso_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_plot_common/image_plot_common.iml" filepath="$PROJECT_DIR$/image_plot_common/image_plot_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_plot_common/image_plot_common_core/image_plot_common_core.iml" filepath="$PROJECT_DIR$/image_plot_common/image_plot_common_core/image_plot_common_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_plot_common/image_plot_common_web_core/image_plot_common_web_core.iml" filepath="$PROJECT_DIR$/image_plot_common/image_plot_common_web_core/image_plot_common_web_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_plot_portal/image_plot_portal.iml" filepath="$PROJECT_DIR$/image_plot_portal/image_plot_portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_plot_service_api/image_plot_service_api.iml" filepath="$PROJECT_DIR$/image_plot_service_api/image_plot_service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_plot_service_impl/image_plot_service_impl.iml" filepath="$PROJECT_DIR$/image_plot_service_impl/image_plot_service_impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_plot_system.iml" filepath="$PROJECT_DIR$/image_plot_system.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="image_plot_api_dto" />
+        <module name="image_plot_basics_elk_kafka" />
+        <module name="image_plot_basics_springcloud_zuul" />
+        <module name="image_plot_common" />
+        <module name="image_plot_portal" />
+        <module name="image_plot_service_api" />
+        <module name="image_plot_service_impl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="image_plot_api_dto" target="1.5" />
+      <module name="image_plot_basics" target="1.5" />
+      <module name="image_plot_basics_elk_kafka" target="1.5" />
+      <module name="image_plot_basics_springcloud_eureka" target="1.5" />
+      <module name="image_plot_basics_springcloud_zuul" target="1.5" />
+      <module name="image_plot_common" target="1.5" />
+      <module name="image_plot_portal" target="1.5" />
+      <module name="image_plot_service_api" target="1.5" />
+      <module name="image_plot_service_impl" target="1.5" />
+      <module name="image_plot_system" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

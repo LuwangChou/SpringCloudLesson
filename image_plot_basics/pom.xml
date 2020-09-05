@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>image_plot_system</artifactId>
+        <groupId>com.gis</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>image_plot_basics</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>image_plot_basics_springcloud_zuul</module>
+        <module>image_plot_basics_elk_kafka</module>
+        <module>image_plot_basics_springcloud_eureka</module>
+        <module>image_plot_basics_xxl_sso_server</module>
+    </modules>
+
+
+
+</project>
